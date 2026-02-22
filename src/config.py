@@ -1,4 +1,4 @@
-OPENAI_API_KEY = "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"
+OPENAI_API_KEY = "<openai-api-key>"
 
 REPLY_DELAY_MIN = 2
 REPLY_DELAY_MAX = 6
