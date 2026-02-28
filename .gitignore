@@ -3,3 +3,4 @@ src/chrome_profile
 src/__pycache__/config.cpython-314.pyc
 src/__pycache__/ai_engine.cpython-314.pyc
 src/__pycache__/whatsapp_driver.cpython-314.pyc
+./resume-booster-sug/resume-booster-sug.iml
