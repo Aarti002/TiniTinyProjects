@@ -3,7 +3,7 @@ src/chrome_profile
 src/__pycache__/config.cpython-314.pyc
 src/__pycache__/ai_engine.cpython-314.pyc
 src/__pycache__/whatsapp_driver.cpython-314.pyc
-./resume-booster-sug/resume-booster-sug.iml
+resume-booster-sug/resume-booster-sug.iml
 resume-booster-sug/__pycache__/ai_rewriter.cpython-314.pyc
 resume-booster-sug/__pycache__/config.cpython-314.pyc
 resume-booster-sug/__pycache__/gap_calculator.cpython-314.pyc
